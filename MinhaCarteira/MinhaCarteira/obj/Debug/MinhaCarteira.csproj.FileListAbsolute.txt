@@ -1,0 +1,111 @@
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.exe.config
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.exe
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.pdb
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.AssemblyReference.cache
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmContas.resources
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmFornecedor.resources
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmLançamento.resources
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmMenu.resources
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmSobre.resources
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmUsuario.resources
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.Login.resources
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.Properties.Resources.resources
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.GenerateResource.cache
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.CoreCompileInputs.cache
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.exe
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.pdb
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\System.Data.SqlServerCe.dll
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+E:\FATEC\3_Semestre\IHC\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.CopyComplete
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.exe.config
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.exe
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.pdb
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.AssemblyReference.cache
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.SuggestedBindingRedirects.cache
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmContas.resources
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmFornecedor.resources
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmLançamento.resources
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmMenu.resources
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmSobre.resources
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmUsuario.resources
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.Login.resources
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.Properties.Resources.resources
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.GenerateResource.cache
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.CoreCompileInputs.cache
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.CopyComplete
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.exe
+D:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.pdb
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.exe.config
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.exe
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.pdb
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.exe
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.pdb
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\System.Data.SqlServerCe.dll
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csprojResolveAssemblyReference.cache
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmContas.resources
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmFornecedor.resources
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmLançamento.resources
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmMenu.resources
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmSobre.resources
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmUsuario.resources
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.Login.resources
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.Properties.Resources.resources
+F:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.GenerateResource.Cache
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.exe.config
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.exe
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.pdb
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\System.Data.SqlServerCe.dll
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.AssemblyReference.cache
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmContas.resources
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmFornecedor.resources
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmLançamento.resources
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmMenu.resources
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmMovimentacao.resources
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmSobre.resources
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmUsuario.resources
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.Login.resources
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.Properties.Resources.resources
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.GenerateResource.cache
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.CoreCompileInputs.cache
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.CopyComplete
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.exe
+H:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.pdb
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.exe.config
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.exe
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.pdb
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.exe
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.pdb
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\System.Data.SqlServerCe.dll
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csprojResolveAssemblyReference.cache
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmContas.resources
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmFornecedor.resources
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmLançamento.resources
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmMenu.resources
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmMovimentacao.resources
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmSobre.resources
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmUsuario.resources
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.Login.resources
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.Properties.Resources.resources
+E:\3Semestre\Interação Humano Computador\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.GenerateResource.Cache
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.AssemblyReference.cache
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmContas.resources
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmFornecedor.resources
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmLançamento.resources
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmMenu.resources
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmMovimentacao.resources
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmSobre.resources
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.frmUsuario.resources
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.Login.resources
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.Properties.Resources.resources
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.GenerateResource.cache
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.CoreCompileInputs.cache
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.exe
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.pdb
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.exe.config
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.exe
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\MinhaCarteira.pdb
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\System.Data.SqlServerCe.dll
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+H:\3Semestre\Interação Humano Computador\ProjetoCarteiraDigital\MinhaCarteira\MinhaCarteira\MinhaCarteira\obj\Debug\MinhaCarteira.csproj.CopyComplete
